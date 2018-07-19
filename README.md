@@ -9,6 +9,10 @@
 The lex analyses the syntax and makes tokenize as mentioned in lexical file and then tokens are passed to set grammar rules
 in parser file. 
 
-# General 
+# Some functions used:
+```
+    yylex(); 
+```
+
 
 
