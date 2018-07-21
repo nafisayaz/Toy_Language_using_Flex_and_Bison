@@ -7,7 +7,15 @@
     print(student_name);
 ```
 The lex analyses the syntax and makes tokenize as mentioned in lexical file and then tokens are passed to set grammar rules
-in parser file.
+in parser file, that changes my syntax in C++ as folllows:
+
+```
+    std::cout<<"Nafis Ayaz"<<std::endl;
+    std::string student_name;
+    std::cin>>student_name;
+    std::cout<<"student_name";
+```
+
 
 
 
